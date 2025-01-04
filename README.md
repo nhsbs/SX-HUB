@@ -1,2 +1,1 @@
-# SX-HUB
-Script para farm
+("https://raw.githubusercontent.com/realredz/BloxFruits/refs/heads/main/Source.lua"))()
